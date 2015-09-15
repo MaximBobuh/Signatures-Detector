@@ -1,4 +1,4 @@
-# Signatures-Detector
+# Cross platform Signatures-Detector
 
 Simple signature detector application which contains of the following two components:
 * Scanner: core component, implemented as a separate server process.
